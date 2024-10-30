@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Images 2 Posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-07 22:12+0200\n"
+"PO-Revision-Date: 2011-08-07 22:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: fuxy <milen@fuxy.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../fwp_images_to_posts.php:29
+#: ../fwp_images_to_posts.php:37
+msgid "Images 2 Posts"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:39
+msgid "Post/Page type"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:59
+msgid "Categories"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:72
+msgid "Post status"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:74
+msgid "Draft"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:75
+msgid "Published"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:90
+msgid "Select files to upload"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:106
+msgid "Select Images"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:108
+msgid "files have been added to the queue."
+msgstr ""
+
+#: ../fwp_images_to_posts.php:111
+msgid "files uploaded"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:111
+msgid "errors."
+msgstr ""
+
+#: ../fwp_images_to_posts.php:127
+msgid "Upload Files"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:128
+msgid "Cancel"
+msgstr ""
+

@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Images 2 Posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-11 01:00+0200\n"
+"PO-Revision-Date: 2011-10-11 01:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: fuxy <milen@fuxy.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../fwp_images_to_posts.php:28
+#: ../fwp_images_to_posts.php:36
+msgid "Images 2 Posts"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:38
+msgid "Post/Page type"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:58
+msgid "Categories"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:59
+msgid "Choose a categories"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:72
+msgid "Taxonomies"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:73
+msgid "Choose a terms"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:101
+msgid "Post status"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:103
+msgid "Draft"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:104
+msgid "Published"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:111
+msgid "Schedule &amp; Step"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:125
+msgid "Step"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:128
+msgid "Minutes"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:129
+msgid "Hours"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:130
+msgid "Days"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:135
+msgid "Insert Image to content"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:157
+msgid "Image Size"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:159
+msgid "Select Image Size"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:160
+msgid "full"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:165
+msgid "Link URL"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:168
+#: ../fwp_images_to_posts.php:173
+msgid "None"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:169
+msgid "File URL"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:170
+msgid "Post URL"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:171
+msgid "Custom URL"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:174
+msgid "Left"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:175
+msgid "Center"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:176
+msgid "Right"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:179
+msgid "Add EXIF data"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:180
+msgid "Use as Futured Image"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:202
+msgid "Select files to upload"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:218
+msgid "Select Images"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:220
+msgid "files have been added to the queue."
+msgstr ""
+
+#: ../fwp_images_to_posts.php:223
+msgid "files uploaded"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:223
+msgid "errors."
+msgstr ""
+
+#: ../fwp_images_to_posts.php:262
+msgid "Upload Files"
+msgstr ""
+
+#: ../fwp_images_to_posts.php:263
+msgid "Cancel"
+msgstr ""
+
